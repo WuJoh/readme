@@ -1,5 +1,5 @@
 {
-  "name": "static-site",
+  "name": "readmegenerator",
   "version": "1.0.0",
   "description": "[How to create a Professional README](./readme-guide.md)",
   "main": "index.js",
